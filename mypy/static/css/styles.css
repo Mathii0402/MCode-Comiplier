@@ -1,0 +1,63 @@
+body
+{
+    margin-top: 30px;
+    background-color: #111;
+    color:white
+    
+}
+form
+{
+    
+
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: center;
+}
+
+h1
+{
+    text-align: center;
+    color: darkgray;
+    font-size: 40px;
+}
+.g-show-1 textarea
+{
+    width: 1100px;
+    background-color: rgb(19, 14, 23);
+    color:whitesmoke;
+    font-family: monospace;
+}
+.qp
+{
+    width: 290px;
+    height: 500px;
+    font-size: medium;
+    background-color:#2f091bc7;
+    color:greenyellow;
+    border: none;
+    
+}
+label
+{
+    font-size:20px;
+    color:azure;
+}
+.g
+{
+    display: flex;
+    padding-right: 15px;
+
+}
+.term
+{
+    background-color: #111;
+    color:green;
+    caret-color: white;
+    caret-shape: block;
+}
+/* n = 21
+if n>=18:
+    print("You are eligiblen")
+else:
+    print("You are not eligible") */
+
