@@ -6,7 +6,7 @@
     make sure pip is installed in your machine.
 
 ## RUN:
-    -move to mypy directory in terminal using the command cd mypy
+    - move to mypy directory in terminal using the command cd mypy
     python manage.py runserver-->to run the webserver
 
 ## Main Features:
